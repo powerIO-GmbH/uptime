@@ -24,8 +24,8 @@ user-agent: powerIO-GmbH
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.powerio.com
-  #baseUrl: /uptime
+  #cname: status.powerio.com
+  baseUrl: /uptime
   logoUrl: https://dl.powerio.com/downloads/icon.ico
   theme: light
   name: Uptime
