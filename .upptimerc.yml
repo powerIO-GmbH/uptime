@@ -4,34 +4,32 @@ repo: uptime
 sites:
   - name: powerIO Website
     url: https://powerio.com
+    icon: https://dl.powerio.com/downloads/icon.ico
   - name: powerIO HVAC Automation Portal
     url: https://portal.hvac-automation.com
+    icon: https://dl.powerio.com/downloads/icon.ico
   - name: powerIO Customer Portal
     url: https://portal.powerio.com
   - name: powerIO Online Shop
     url: https://shop.powerio.com
+    icon: https://dl.powerio.com/downloads/icon.ico
   - name: powerIO support Hub
     url: https://support.powerio.com
-  - name: powerIO Download CDN
-    check: "tcp-ping"
-    port: 53
-    url: dl.powerio.com
+    icon: https://dl.powerio.com/downloads/icon.ico
   - name: powerIO Dip Switch Tool
     url: https://dipswitch.powerio.com
+    icon: https://dl.powerio.com/downloads/icon.ico
 
 user-agent: powerIO-GmbH
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.powerio.com
-  baseUrl: /uptime
-  logoUrl: https://dl.powerio.com/downloads/icon.ico
+  cname: status.powerio.com
+  #baseUrl: /uptime
+  logoUrl: https://www.powerio.com/hs-fs/hubfs/PowerIO/Images/powerIO-RGB@2x.png?width=594&height=320&name=powerIO-RGB@2x.png
   theme: light
-  name: Uptime
-  introTitle: "powerIO GmbH Status page"
-  introMessage: >
-    "This is the status page for powerIO GmbH services and websites. If there are any interruptions to our services, we will post updates here."
+  name: Status
+  introTitle: "powerIO Status page"
+  introMessage: This is the status page for powerIO GmbH services and websites. If there are any interruptions to our services, we will post updates here.
   navbar:
     - title: Status
       href: /
