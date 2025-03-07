@@ -5,18 +5,18 @@
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-website",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.69%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 619,
     "timeDay": 824,
     "timeWeek": 619,
     "timeMonth": 619,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2025-03-07": 1
+      "2025-03-07": 17
     }
   },
   {
@@ -60,18 +60,19 @@
     "url": "https://shop.powerio.com",
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-online-shop",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 592,
     "timeDay": 591,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2025-03-07": 1,
       "2025-03-04": 16
     }
   },
