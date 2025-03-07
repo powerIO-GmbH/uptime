@@ -5,18 +5,18 @@
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-website",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptime": "98.89%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 1540,
     "timeDay": 3757,
     "timeWeek": 1540,
     "timeMonth": 1540,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2025-03-07": 54
+      "2025-03-07": 63
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.powerio.com.ico",
     "slug": "power-io-customer-portal",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.64%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 2296,
     "timeDay": 5107,
     "timeWeek": 2296,
     "timeMonth": 2296,
     "timeYear": 2296,
     "dailyMinutesDown": {
-      "2025-03-07": 33
+      "2025-03-07": 21
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://support.powerio.com",
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-support-hub",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 919,
-    "timeDay": 510,
-    "timeWeek": 919,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1402,
+    "timeDay": 2886,
+    "timeWeek": 1402,
+    "timeMonth": 1402,
+    "timeYear": 1402,
     "dailyMinutesDown": {
-      "2025-03-07": 1
+      "2025-03-07": 9
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://dipswitch.powerio.com",
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-dip-switch-tool",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 269,
-    "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 252,
+    "timeDay": 206,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-03-07": 0
+      "2025-03-07": 9
     }
   }
 ]
