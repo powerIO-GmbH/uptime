@@ -62,18 +62,19 @@
     "url": "https://shop.powerio.com",
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-online-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 846,
-    "timeDay": 584,
-    "timeWeek": 608,
+    "timeDay": 622,
+    "timeWeek": 579,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
+      "2025-03-30": 0,
       "2025-03-28": 16,
       "2025-03-04": 16
     }
