@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 967,
-    "timeDay": 442,
-    "timeWeek": 710,
-    "timeMonth": 702,
-    "timeYear": 967,
+    "time": 961,
+    "timeDay": 600,
+    "timeWeek": 718,
+    "timeMonth": 708,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-03-07": 52
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 525,
-    "timeWeek": 557,
-    "timeMonth": 677,
-    "timeYear": 687,
+    "time": 686,
+    "timeDay": 617,
+    "timeWeek": 544,
+    "timeMonth": 682,
+    "timeYear": 686,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1280,
-    "timeDay": 946,
-    "timeWeek": 902,
+    "time": 1272,
+    "timeDay": 834,
+    "timeWeek": 881,
     "timeMonth": 1041,
-    "timeYear": 1280,
+    "timeYear": 1272,
     "dailyMinutesDown": {
       "2025-03-07": 21
     }
@@ -63,18 +63,17 @@
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-online-shop",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 764,
-    "timeDay": 551,
-    "timeWeek": 550,
-    "timeMonth": 626,
-    "timeYear": 764,
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 762,
+    "timeDay": 549,
+    "timeWeek": 551,
+    "timeMonth": 622,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-04-20": 12,
       "2025-03-28": 16,
       "2025-03-04": 16
     }
@@ -90,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 704,
-    "timeWeek": 573,
-    "timeMonth": 612,
-    "timeYear": 742,
+    "time": 737,
+    "timeDay": 496,
+    "timeWeek": 556,
+    "timeMonth": 607,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 208,
-    "timeWeek": 219,
-    "timeMonth": 301,
-    "timeYear": 291,
+    "time": 292,
+    "timeDay": 307,
+    "timeWeek": 227,
+    "timeMonth": 304,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   }
 ]
