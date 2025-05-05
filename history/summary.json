@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 891,
-    "timeDay": 429,
-    "timeWeek": 555,
-    "timeMonth": 697,
-    "timeYear": 891,
+    "time": 890,
+    "timeDay": 812,
+    "timeWeek": 580,
+    "timeMonth": 687,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-03-07": 52
     }
@@ -24,19 +24,19 @@
     "url": "https://portal.hvac-automation.com",
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-hvac-automation-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 525,
-    "timeWeek": 636,
-    "timeMonth": 654,
-    "timeYear": 675,
+    "time": 674,
+    "timeDay": 594,
+    "timeWeek": 652,
+    "timeMonth": 651,
+    "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-05-05": 0
+      "2025-05-05": 3
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1237,
-    "timeDay": 795,
-    "timeWeek": 1123,
+    "time": 1236,
+    "timeDay": 1173,
+    "timeWeek": 1164,
     "timeMonth": 1076,
-    "timeYear": 1237,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2025-03-07": 21
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 744,
-    "timeDay": 499,
-    "timeWeek": 647,
-    "timeMonth": 624,
-    "timeYear": 744,
+    "time": 743,
+    "timeDay": 609,
+    "timeWeek": 659,
+    "timeMonth": 622,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2025-03-28": 16,
       "2025-03-04": 16
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 479,
-    "timeWeek": 554,
-    "timeMonth": 578,
-    "timeYear": 698,
+    "time": 696,
+    "timeDay": 570,
+    "timeWeek": 565,
+    "timeMonth": 566,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 350,
-    "timeWeek": 297,
+    "time": 292,
+    "timeDay": 384,
+    "timeWeek": 310,
     "timeMonth": 285,
-    "timeYear": 290,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   }
 ]
