@@ -24,9 +24,9 @@
     "url": "https://portal.hvac-automation.com",
     "icon": "https://dl.powerio.com/downloads/icon.ico",
     "slug": "power-io-hvac-automation-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 636,
     "timeMonth": 654,
     "timeYear": 675,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   },
   {
     "name": "powerIO Customer Portal",
