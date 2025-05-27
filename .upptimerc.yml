@@ -1,6 +1,8 @@
 owner: powerio-gmbh
 repo: uptime
 
+runner: "[self-hosted, Linux, ARM64, Azure, Monitor]"
+
 sites:
   - name: powerIO Website
     url: https://powerio.com
