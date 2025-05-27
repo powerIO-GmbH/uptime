@@ -1,7 +1,7 @@
 owner: powerio-gmbh
 repo: uptime
 
-runner: "[self-hosted,Monitor]"
+runner: "[self-hosted, Monitor]"
 
 sites:
   - name: powerIO Website
